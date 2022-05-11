@@ -1,2 +1,3 @@
 # hollywoodnails
 Nail Salon
+Welcome!
